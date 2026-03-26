@@ -1,4 +1,4 @@
-academico.ifms.edu.br
+0.0.0.0 academico.ifms.edu.br
 ead.ifms.edu.br
 presencial.ifms.edu.br
 drive.google.com
