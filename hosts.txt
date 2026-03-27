@@ -1,7 +1,8 @@
-academico.ifms.edu.br
-ead.ifms.edu.br
-presencial.ifms.edu.br
-drive.google.com
+(^|\.)ifms\.edu\.br$
+#academico.ifms.edu.br
+#ead.ifms.edu.br
+#presencial.ifms.edu.br
+#drive.google.com
 getbootstrap.com
 php.net
 w3schools.com
@@ -43,3 +44,7 @@ npmjs.org
 npmjs.com
 www.npmjs.com
 nodejs.org
+
+
+
+accounts.google.com
